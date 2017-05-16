@@ -176,3 +176,8 @@ p.copyright {
 .one-list {
   max-height: 300px;
 }
+
+.contact-info {
+  width: 100%;
+  text-align: right;
+}
